@@ -1,0 +1,12 @@
+#animal-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.animal-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+}
